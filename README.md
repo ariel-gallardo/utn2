@@ -1,0 +1,1 @@
+main# resolucion de conflictos
